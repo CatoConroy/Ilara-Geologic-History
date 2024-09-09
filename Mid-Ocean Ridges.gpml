@@ -3,7 +3,7 @@
     <gml:featureMember>
         <gpml:MidOceanRidge>
             <gpml:identity>GPlates-23562878-c4fe-43a6-bd66-e495b608bf07</gpml:identity>
-            <gpml:revision>GPlates-bf33f663-1a91-4d63-92c2-76eccaf17617</gpml:revision>
+            <gpml:revision>GPlates-b9dcf28b-217a-4100-b673-a02229042c2f</gpml:revision>
             <gml:name>Mid-Ocean Ridge 1450</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -33,7 +33,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">70.778096702191519 13.555214020188206 69.890698807977103 13.214437411872485 61.590191908772105 11.083738365080272 56.261406446138622 16.43733019071621 49.843036490861444 17.921994345539538 45.925833850385978 21.132833853992093 39.218551546111073 21.278511964087041 35.801294198828316 24.134974874310494 31.306616280776769 24.538600647412753 29.651577191026885 26.912771644928213 27.204647891455551 27.309050908939962 24.484400821542721 26.305695283219031 22.35354695996531 26.424541023481215 21.114866796574979 25.819705471494824 19.937867665656093 26.005098666879807 19.074576282537741 26.142705766157114 17.495418243687261 25.581292546222706 16.495121449729691 25.037716757208642 15.266815241385414 25.134229320889201 </gml:posList>
+                                    <gml:posList gml:dimension="2">70.778096702191519 13.555214020188206 69.890698807977103 13.214437411872485 61.590191908772105 11.083738365080272 56.261406446138622 16.43733019071621 49.843036490861444 17.921994345539538 45.925833850385978 21.132833853992093 39.218551546111073 21.278511964087041 35.801294198828316 24.134974874310494 31.306616280776769 24.538600647412753 29.651577191026885 26.912771644928213 27.204647891455551 27.309050908939962 24.484400821542721 26.305695283219031 22.35354695996531 26.424541023481215 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
@@ -222,50 +222,6 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:MidOceanRidge>
-            <gpml:identity>GPlates-133c96e6-8aff-477e-bab1-0ab889e0b049</gpml:identity>
-            <gpml:revision>GPlates-3f75293e-eec4-4cd8-9771-f32b13a6339d</gpml:revision>
-            <gml:name>Mid-Ocean Ridge 1400 Extension</gml:name>
-            <gml:validTime>
-                <gml:TimePeriod>
-                    <gml:begin>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:begin>
-                    <gml:end>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:end>
-                </gml:TimePeriod>
-            </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
-            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
-            <gpml:leftPlate>100</gpml:leftPlate>
-            <gpml:rightPlate>1500</gpml:rightPlate>
-            <gpml:centerLineOf>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:OrientableCurve gml:orientation="+">
-                            <gml:baseCurve>
-                                <gml:LineString>
-                                    <gml:posList gml:dimension="2">13.756045472796423 27.919443801171795 8.3178274487397488 26.526671632737131 2.1275406351523487 28.708736875282316 -0.6260750088221031 28.006811410294393 </gml:posList>
-                                </gml:LineString>
-                            </gml:baseCurve>
-                        </gml:OrientableCurve>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:centerLineOf>
-        </gpml:MidOceanRidge>
-    </gml:featureMember>
-    <gml:featureMember>
-        <gpml:MidOceanRidge>
             <gpml:identity>GPlates-48e17010-a57f-43be-999b-99d0d15009e8</gpml:identity>
             <gpml:revision>GPlates-c579fb71-9e28-4b55-9387-4baf7f09e398</gpml:revision>
             <gml:name>Mid-Ocean Ridge 1500</gml:name>
@@ -342,6 +298,182 @@
                             <gml:baseCurve>
                                 <gml:LineString>
                                     <gml:posList gml:dimension="2">1.3601898332771294 26.147643879796416 2.3553393572167196 25.145675893763627 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-207af5e5-e763-4535-ab95-586095aa5440</gpml:identity>
+            <gpml:revision>GPlates-a4a7c5ce-7311-4734-8ede-ffe00d104dac</gpml:revision>
+            <gml:name>Mid-Ocean Ridge 1450</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1450</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1450</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>101</gpml:leftPlate>
+            <gpml:rightPlate>1500</gpml:rightPlate>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">22.353546959965325 26.424541023481211 21.114866796574994 25.819705471494821 19.937867665656096 26.005098666879807 19.074576282537752 26.142705766157103 17.495418243687272 25.581292546222709 16.495121449729702 25.037716757208642 15.266815241385423 25.134229320889204 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-1fcf977b-6491-4b7d-82d3-4ce13d987424</gpml:identity>
+            <gpml:revision>GPlates-a4912d92-6062-4720-b3a4-1d6d4cda09e5</gpml:revision>
+            <gml:name>Mid-Ocean Ridge 1400 Extension</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>101</gpml:leftPlate>
+            <gpml:rightPlate>1500</gpml:rightPlate>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">13.756045472796412 27.919443801171791 8.3178274487397434 26.526671632737127 2.1275406351523487 28.708736875282316 -0.6260750088221031 28.006811410294389 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-567a7c4c-302c-4670-af51-25fd4a0ad7bc</gpml:identity>
+            <gpml:revision>GPlates-f3554afe-eab7-4f82-a3b1-44fd00cc8ff9</gpml:revision>
+            <gml:name>Mid-Ocean Ridge 1400 Extension</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>101</gpml:leftPlate>
+            <gpml:rightPlate>400</gpml:rightPlate>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-0.67848678448676414 27.920057421829071 -0.2748234129512252 26.793920834521558 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-9352d787-129e-4dc2-a6f3-6d08446a8a2a</gpml:identity>
+            <gpml:revision>GPlates-bc65e231-2190-435b-9e66-66d5777fedc2</gpml:revision>
+            <gml:name>Mid-Ocean Ridge 1500</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1500</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>101</gpml:leftPlate>
+            <gpml:rightPlate>400</gpml:rightPlate>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-0.27481014199622983 26.793924663718506 0.91309514561691307 15.759763679979145 -1.4082535640219493 8.8024340649133741 -0.33528115492166571 1.8617535479742318 2.1339268502257034 -6.0258892892612756 2.2883254160743136 -11.894597898323328 5.8616890334954332 -20.328210142558888 7.2628342664268084 -27.705074788607124 9.5550771067632247 -33.412010036956467 13.511042196570514 -39.829681717088725 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>

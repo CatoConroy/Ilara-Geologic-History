@@ -75,7 +75,7 @@
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>27.201245289554713 27.291376038376747</gml:pos>
+                                    <gml:pos>27.201245289554713 27.291376038376743</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                         </gml:MultiPoint>
@@ -203,7 +203,7 @@
                         <gml:MultiPoint>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>27.201245289554713 27.291376038376747</gml:pos>
+                                    <gml:pos>27.201245289554713 27.291376038376743</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
@@ -370,98 +370,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
-            <gpml:leftPlate>100</gpml:leftPlate>
-            <gpml:rightPlate>400</gpml:rightPlate>
-            <gpml:times>
-                <gpml:Array>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1410</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1420</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1410</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1430</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1420</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1440</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1430</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1450</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1440</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                </gpml:Array>
-            </gpml:times>
             <gpml:seedPoints>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -483,17 +391,17 @@
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>25.985371324110918 -0.050405525794166406</gml:pos>
+                                    <gml:pos>25.985371324110918 -0.050405525794166399</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>26.897374677137382 -9.2251782118575321</gml:pos>
+                                    <gml:pos>26.897374677137382 -9.2251782118575303</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>25.595026350900092 -15.603542462966454</gml:pos>
+                                    <gml:pos>25.595026350900092 -15.603542462966457</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
@@ -508,7 +416,7 @@
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>25.043346718829575 -40.620701310069755</gml:pos>
+                                    <gml:pos>25.043346718829575 -40.620701310069762</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
@@ -522,30 +430,6 @@
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:seedPoints>
-        </gpml:Flowline>
-    </gml:featureMember>
-    <gml:featureMember>
-        <gpml:Flowline>
-            <gpml:identity>GPlates-ddf6a820-7365-438c-9947-1a10d6698e74</gpml:identity>
-            <gpml:revision>GPlates-60985341-e7f4-47be-bd9d-6f37ed98bb8a</gpml:revision>
-            <gml:name>Flowlines 1450-1400</gml:name>
-            <gml:validTime>
-                <gml:TimePeriod>
-                    <gml:begin>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1450</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:begin>
-                    <gml:end>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:end>
-                </gml:TimePeriod>
-            </gml:validTime>
-            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
-            <gpml:leftPlate>1500</gpml:leftPlate>
-            <gpml:rightPlate>400</gpml:rightPlate>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -635,6 +519,30 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>100</gpml:leftPlate>
+            <gpml:rightPlate>400</gpml:rightPlate>
+        </gpml:Flowline>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:Flowline>
+            <gpml:identity>GPlates-ddf6a820-7365-438c-9947-1a10d6698e74</gpml:identity>
+            <gpml:revision>GPlates-60985341-e7f4-47be-bd9d-6f37ed98bb8a</gpml:revision>
+            <gml:name>Flowlines 1450-1400</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1450</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
             <gpml:seedPoints>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -661,12 +569,12 @@
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>22.058759539336432 59.919915658801351</gml:pos>
+                                    <gml:pos>22.058759539336435 59.919915658801351</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>21.097058331733177 54.928548965360797</gml:pos>
+                                    <gml:pos>21.097058331733177 54.92854896536079</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
@@ -700,30 +608,6 @@
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:seedPoints>
-        </gpml:Flowline>
-    </gml:featureMember>
-    <gml:featureMember>
-        <gpml:Flowline>
-            <gpml:identity>GPlates-6540a95f-05d1-4fd3-b774-3d22c031a159</gpml:identity>
-            <gpml:revision>GPlates-acde5da6-706b-400a-a1ac-c533497d031f</gpml:revision>
-            <gml:name>Flowlines 1450-1400</gml:name>
-            <gml:validTime>
-                <gml:TimePeriod>
-                    <gml:begin>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1450</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:begin>
-                    <gml:end>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:end>
-                </gml:TimePeriod>
-            </gml:validTime>
-            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
-            <gpml:leftPlate>100</gpml:leftPlate>
-            <gpml:rightPlate>1500</gpml:rightPlate>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -813,6 +697,30 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>1500</gpml:leftPlate>
+            <gpml:rightPlate>400</gpml:rightPlate>
+        </gpml:Flowline>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:Flowline>
+            <gpml:identity>GPlates-6540a95f-05d1-4fd3-b774-3d22c031a159</gpml:identity>
+            <gpml:revision>GPlates-acde5da6-706b-400a-a1ac-c533497d031f</gpml:revision>
+            <gml:name>Flowlines 1450-1400</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1450</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
             <gpml:seedPoints>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -829,7 +737,7 @@
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>61.574090490770594 11.091395536188205</gml:pos>
+                                    <gml:pos>61.574090490770594 11.091395536188207</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
@@ -854,7 +762,7 @@
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>35.785080950166687 24.137333689438293</gml:pos>
+                                    <gml:pos>35.785080950166694 24.137333689438293</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
@@ -864,22 +772,22 @@
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>29.635448845330519 26.914890735188354</gml:pos>
+                                    <gml:pos>29.635448845330519 26.914890735188351</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>27.188534754562639 27.311231058339672</gml:pos>
+                                    <gml:pos>27.188534754562639 27.311231058339676</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>24.468250680752156 26.308136196418801</gml:pos>
+                                    <gml:pos>24.46825068075216 26.308136196418804</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>22.337400945751895 26.427055270046864</gml:pos>
+                                    <gml:pos>22.337400945751895 26.427055270046861</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
@@ -894,7 +802,7 @@
                             </gml:pointMember>
                             <gml:pointMember>
                                 <gml:Point>
-                                    <gml:pos>19.058420601062078 26.145378689885668</gml:pos>
+                                    <gml:pos>19.058420601062078 26.145378689885664</gml:pos>
                                 </gml:Point>
                             </gml:pointMember>
                             <gml:pointMember>
@@ -918,6 +826,98 @@
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:seedPoints>
+            <gpml:times>
+                <gpml:Array>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1410</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1400</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1420</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1410</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1430</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1420</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1440</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1430</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1450</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1440</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                </gpml:Array>
+            </gpml:times>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>100</gpml:leftPlate>
+            <gpml:rightPlate>1500</gpml:rightPlate>
         </gpml:Flowline>
     </gml:featureMember>
 </gpml:FeatureCollection>
