@@ -1,0 +1,1 @@
+This directory contains a variety of snapshots of Ilara's Geologic History (typically in 50MA timesteps.)
